@@ -11,6 +11,7 @@ public class Invoice {
         this.title = title;
         this.date = date;
         this.value = value;
+//        System.out.println("This Invoice instance contains " + this.toString());
     }
 
     public String getTitle() {
